@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davincico
 - 👀 I’m interested in cybersecurity, penetration testing, cracking boxes on HTB and playing CTFs
 - 🌱 I’m currently learning programming languages like Python 3 and Javascript, scripting in Bash and Powershell. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects, play CTFs or discuss and review code.
 - 📫 How to reach me: davin.hong3@gmail.com 
 
 <!---
