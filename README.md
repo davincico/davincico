@@ -1,7 +1,7 @@
-- 👋 Hi, Davin Hong
-- 👀 I’m interested in cybersecurity, penetration testing, cracking boxes on HTB and playing CTFs
-- 🌱 I’m currently learning programming languages like Python 3 and Javascript, scripting in Bash and Powershell. 
-- 💞️ I’m looking to collaborate on projects, play CTFs or discuss and review code.
+- 👋 Hi, I'm Davin Hong
+- 👀 I’m interested in SOC automation, cybersecurity, and occasionally delve into writing trading scripts and algorithms.
+- 🌱 Algo trading is my thing
+- 💞️ I’m open to collaborating on interesting projects and discussions.
 - 📫 How to reach me: davin.hong3@gmail.com or on Linkedin: https://www.linkedin.com/in/davinhong/
 
 <!---
